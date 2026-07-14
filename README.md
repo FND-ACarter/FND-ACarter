@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Andre Carter! 👋
+*Future Cybersecurity Analyst & Penetration Tester*
 
-<!--
-**FND-ACarter/FND-ACarter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛡️ About Me
+I am a dedicated Cybersecurity student utilizing an advanced multi-VM testing sandbox to master defensive engineering, network security, and infrastructure automation.
 
-Here are some ideas to get you started:
+- 🎓 Currently pursuing my degree in Cybersecurity.
+- 🚀 Deeply interested in: Penetration Testing, Threat Hunting, and Python Automation.
+- 🛠️ Current Project: Building and configuring an isolated active-directory testing lab inside VMware Workstation Pro.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Technical Toolkit
+- **Languages:** Python, Bash, PowerShell
+- **Operating Systems:** Windows 11 Host, Kali Linux, Windows Server, Ubuntu
+- **Tools & Hypervisors:** VMware Workstation Pro, Wireshark, Nmap, Git
+
+## 📬 Connect With Me
+- **LinkedIn:** [Insert Link]
+- **Email:** [Insert Link]

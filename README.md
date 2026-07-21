@@ -14,5 +14,5 @@ I am a dedicated Cybersecurity student utilizing an advanced multi-VM testing sa
 * **Tools & Hypervisors:** VMware Workstation Pro, Wireshark, Nmap, Git
 
 ## 📬 Connect With Me
-* 💼 **LinkedIn:** [://linkedin.com](https://www.://linkedin.com)
+* 💼 **LinkedIn:** [linkedin.com/in/fnd-acarter](https://www.linkedin.com/in/fnd-acarter/)
 * 📧 **Email:** [fnd.a.carter@outlook.com](mailto:fnd.a.carter@outlook.com)
